@@ -1,2 +1,10 @@
 # DroneBoat
-Were in!
+
+## Functionality
+
+Lights
+Engines
+SpeedCtrl
+Battery
+Remote
+Tranciever
